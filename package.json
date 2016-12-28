@@ -1,0 +1,20 @@
+{
+    "name": "d3-sample-application",
+    "description": "A sample d3 aplication",
+    "version": "1.0.0",
+    "author": {
+        "name": "Jishnu"
+    },
+    "license": "UNLICENCED",
+    "dependencies": {
+        "d3": "~4.4.0",
+        "lite-server":"~2.2.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jishnuap/d3-start.git"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    }
+}
